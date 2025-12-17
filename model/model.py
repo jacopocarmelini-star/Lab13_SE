@@ -66,6 +66,9 @@ class Model:
 
 
     def _ricorsione(self,grafo_temp, costoMax, parziale):
+        # parto da nodo[-1](ultimo)
+        # calcolo vicini ammisssibili com funzione .out_edges()
 
+        #guarda week13 artsmia
 
 
